@@ -47,7 +47,7 @@ export default function Page() {
           />
         </div>
       </div>
-      <div className={styles.shape} />
+      {/* <div className={styles.shape} /> */}
     </main>
   );
 }
